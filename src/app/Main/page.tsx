@@ -39,7 +39,7 @@ export default function Main() {
      <section>
    <div className="mx-auto max-w-7xl">
 <h1 className="text-center text-2xl md:text-4xl text-white font-bold mt-18 md:mt-40 sm:mt-20">Work Experience</h1>
-<p className="text-center text-base text-zinc-400 md:text-base max-w-4xl mt-4 leading-loose tracking-wide">With my experience, I&apos;m trying now to branch into Lab adjacent roles within the new Cell Therapy developments. This is a brief summary of my work experience for details, see <a data-state="closed" className="text-zinc-200 font-bold hover:text-cyan-500 transition duration-150 outline-none" href="/Workexperience">here</a>.</p>
+<p className="text-center text-base text-zinc-400 md:text-base max-w-4xl mt-4 leading-loose tracking-wide">With my experience, I&apos;m trying now to branch into Lab adjacent roles within the new Cell Therapy developments. This is a brief summary of my work experience for details, see <a data-state="closed" className="text-zinc-200 font-bold hover:text-cyan-500 transition duration-150 outline-none" href="Skills">here</a>.</p>
 
 <div className="max-w-5xl mx-auto px-8">
  <HoverEffect items={[
