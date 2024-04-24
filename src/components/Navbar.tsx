@@ -12,7 +12,7 @@ const Navbar = async (props: Props) => {
         <p className="text-3xl font-bold hover:text-rose-700 transition duration-150 outline-none"><Link href="/">Roberto</Link> </p>
         <div style={{ transform: 'rotate(90deg)' }}>
         <Image
-        src="/free-dna-2130814-1798594.webp"
+        src="free-dna-2130814-1798594.webp"
         width={30}
         height={30}
         alt="logo"
