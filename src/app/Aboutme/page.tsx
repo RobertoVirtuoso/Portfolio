@@ -10,7 +10,7 @@ import {twMerge} from "tailwind-merge"
 export default function Aboutme() {
   return (
     <main>
-      <link  rel="icon"  href="/JRV.png"  type="image/<generated>"  sizes=""/>
+      <link  rel="icon"  href="JRV.png"  type="image/<generated>"  sizes=""/>
       <Navbar></Navbar>
 
       <TextGenerateEffect words={"Comitted to continuous growth, embracing challenges and trying to make the best of it. One day at a time"} className= "text-orange flex-box text-center from-neutral-400 pt-8 md:pt-20 ">

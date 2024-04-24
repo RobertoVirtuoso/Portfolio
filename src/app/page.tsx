@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <main>
        {/* Edit the nav in components or break navbar */}
-       <link  rel="icon"  href="/JRV.png"  type="image/<generated>"  sizes=""/>
+       <link  rel="icon"  href="JRV.png"  type="image/<generated>"  sizes=""/>
       <Navbar></Navbar>
       <motion.div
         initial={{ opacity: 0.0, y: 40 }}

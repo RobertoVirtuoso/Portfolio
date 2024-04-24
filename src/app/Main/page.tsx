@@ -13,7 +13,7 @@ import { thestreets } from "@/components/thestreets";
 export default function Main() {
   return (
     <main>
-    <link  rel="icon"  href="/JRV.png"  type="image/<generated>"  sizes=""/>
+    <link  rel="icon"  href="JRV.png"  type="image/<generated>"  sizes=""/>
     {/* Edit the nav in components or break navbar */}
    <Navbar></Navbar>
    <motion.div
