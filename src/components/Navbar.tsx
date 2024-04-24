@@ -27,7 +27,7 @@ const Navbar = async (props: Props) => {
             <Link href="/Aboutme">About Me</Link>
           </li>
           <li>
-            <Link href="/Skills">Skills & Experience</Link>
+            <Link href="Skills">Skills & Experience</Link>
           </li>
           <li>
             <Link href="/">Testimonials</Link>
