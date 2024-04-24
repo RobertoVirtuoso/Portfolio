@@ -77,7 +77,7 @@ export const infotabs = [
      <Image src="/veeva.png"     alt="dummy image"     width="200"     height="200" />
      </div>
     <p className="font-light p-4">
-      Bringing a fair amount of experience in the pharmaceutical industry, I excel in adhering to GxP practices in both in strict GMP (Grade A/ISO 5) or clinical settings, adhering to (GMP) standards is not just a regulatory requirement but a cornerstone of ensuring quality, safety, and reliability in your operations. I'm no stranger in maintaining stringent documentation practices from sample preperation to the final steps of analysis.
+      Bringing a fair amount of experience in the pharmaceutical industry, I excel in adhering to GxP practices in both in strict GMP (Grade A/ISO 5) or clinical settings, adhering to (GMP) standards is not just a regulatory requirement but a cornerstone of ensuring quality, safety, and reliability in your operations. I&apos;m no stranger in maintaining stringent documentation practices from sample preperation to the final steps of analysis.
       <p>This is not limited to only regulatory requirements but extends into, Having an up to date Quality management system, Facility and Equipment Compliance, Documentation Practices, Adequate controls for Data Integrity and regular internal auditory moments.</p>
  </p>
     </div>
@@ -94,7 +94,7 @@ export const infotabs = [
      width="250"
      height="250"
    />
-    <p className="font-light p-4">In my starting journey within the pharmaceutical sector, I've begun cultivating leadership and strategic skills by steering a small, dedicated team. I facilitated collaboration and aligned our efforts with organizational goals. Through trainings, managagement 1-1's and hands-on experience, I've developed the knack for making informed decisions under pressure, motivating team members, and adapting strategies to meet the ever-evolving demands. </p>
+    <p className="font-light p-4">In my starting journey within the pharmaceutical sector, I&apos;ve begun cultivating leadership and strategic skills by steering a small, dedicated team. I facilitated collaboration and aligned our efforts with organizational goals. Through trainings, managagement 1-1&apos;s and hands-on experience, I&apos;ve developed the knack for making informed decisions under pressure, motivating team members, and adapting strategies to meet the ever-evolving demands. </p>
     </div>
     ),
   },
@@ -136,7 +136,7 @@ export const infotabs = [
      </div>
     <p className="font-light p-9">
     I began my deep-dive into full-stack development because I want to understand the difficulties we were facing with our own LIMS systems and how to overcome them, and in the future be able to create my own LIMS system from scratch. During this I learned HTML, CSS, JS and PHP.
-    <p> I learned about frameworks such as React.js Node.js, Postgre & MongoDB, API's and Realtime Communication Sockets. I still have to learn web security especially because the healthcare standards in the Netherlands are quite strict. Although I have learned a lot I still have quite the way to go if you're interested in seeing some of my projects contact me.</p>
+    <p> I learned about frameworks such as React.js Node.js, Postgre & MongoDB, API&apos;s and Realtime Communication Sockets. I still have to learn web security especially because the healthcare standards in the Netherlands are quite strict. Although I have learned a lot I still have quite the way to go if you&apos;re interested in seeing some of my projects contact me.</p>
     </p>
     </div>
     ),

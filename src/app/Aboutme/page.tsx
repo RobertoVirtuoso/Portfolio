@@ -21,15 +21,15 @@ export default function Aboutme() {
 >
         <div className="max-w-5xl mx-auto px-8 mt-10 relative">
     <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">
-        When I'm not busy working or with a IDE open you'll often find either reading or indulging in some other obscure series. I like a good laugh and can find the humor in just about anything.
+        When I&apos;m not busy working or with a IDE open you&apos;ll often find either reading or indulging in some other obscure series. I like a good laugh and can find the humor in just about anything.
         <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">But beyond work and cheesy punchlines, I have a passion for my personal interests which include, bouldering, hiking, diving, windsurfing, and reading I try my best to have a well-rounded approach to both work and life. 
         I try my best to travel when I can and visit atleast one new place per year whether within europe or outside Europe. If you know a person I do obstacle runs a few times per year an can always use an extra casuality not worried about getting muddy.</p>
     </p>
     <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">
-        Here's a timeline of what I've been upto 
+        Here&apos;s a timeline of what I&apos;ve been upto 
     </p>
     <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">
-        (If you're looking for more work related stuff swipe right)
+        (If you&apos;re looking for more work related stuff swipe right)
     </p>
     
     <div className="max-w-3xl mx-auto   divide-zinc-800 relative">

@@ -27,19 +27,19 @@ export default function Main() {
      className="relative flex flex-col gap-4 items-center justify-center px-4"
    >
      <div className="text-3xl md:text-7xl font-bold dark:text-white text-center">
-      <TextGenerateEffect words={"Hola, I'm Jose I like to put the Tech in QC Technician"} className= "pt-8  flex-box md:mt-16 from-neutral-400 text-yellow-400">
+      <TextGenerateEffect words={"Hola, Im Jose I like to put the Tech in QC Technician"} className= "pt-8  flex-box md:mt-16 from-neutral-400 text-yellow-400">
         </TextGenerateEffect>
      </div>
      <div className="font-normal text-2xl md:text-4xl dark:text-neutral-200 py-4">
      Meet Jose, who with enough caffeine and time can find a solution for all your laboratory needs with half a decade of GxP experience. I try to combine my passion for science and tech to innovate the pharmaceutical industry all while adhering to SOP and following best practices.
      </div>
      <div className="font-extralight text-2xl md:text-4xl dark:text-neutral-200 py-4">
-       In my freetime I'm Building websites, reading, bouldering, and assisting a startup soon to go public. you can read more in my<a data-state="closed" className="text-zinc-100 font-bold hover:text-purple-500 transition duration-150 outline-none" href="Aboutme"> About me</a> page.
+       In my freetime I&apos;m Building websites, reading, bouldering, and assisting a startup soon to go public. you can read more in my<a data-state="closed" className="text-zinc-100 font-bold hover:text-purple-500 transition duration-150 outline-none" href="Aboutme"> About me</a> page.
      </div> 
      <section>
    <div className="mx-auto max-w-7xl">
 <h1 className="text-center text-2xl md:text-4xl text-white font-bold mt-18 md:mt-40 sm:mt-20">Work Experience</h1>
-<p className="text-center text-base text-zinc-400 md:text-base max-w-4xl mt-4 leading-loose tracking-wide">With my experience, I'm trying now to branch into Lab adjacent roles within the new Cell Therapy developments. This is a brief summary of my work experience for details, see <a data-state="closed" className="text-zinc-200 font-bold hover:text-cyan-500 transition duration-150 outline-none" href="/Workexperience">here</a>.</p>
+<p className="text-center text-base text-zinc-400 md:text-base max-w-4xl mt-4 leading-loose tracking-wide">With my experience, I&apos;m trying now to branch into Lab adjacent roles within the new Cell Therapy developments. This is a brief summary of my work experience for details, see <a data-state="closed" className="text-zinc-200 font-bold hover:text-cyan-500 transition duration-150 outline-none" href="/Workexperience">here</a>.</p>
 
 <div className="max-w-5xl mx-auto px-8">
  <HoverEffect items={[
