@@ -1,0 +1,46 @@
+ <section>
+      <div className="mx-auto max-w-7xl">
+  <h1 className="text-center text-2xl md:text-4xl text-white font-bold mt-18 md:mt-40 sm:mt-20">Work Experience</h1>
+  <p className="text-center text-2xl text-zinc-400 md:text-base max-w-4xl mt-4 leading-loose tracking-wide">With my experience, I'm trying now to branch into Lab adjacent roles within the new Cell Therapy developments. This is a brief summary of my work experience for details, see <a data-state="closed" className="text-zinc-200 font-bold hover:text-cyan-500 transition duration-150 outline-none" href="/Work-experience">here</a>.</p>
+
+  <div className="max-w-5xl mx-auto px-8">
+    <HoverEffect items={[
+      {
+        title: "KitePharma 2023",
+        position: "QC Microbiologist Technician",
+        description: "Kite Pharma is a pioneering biopharmaceutical company focused on developing innovative cancer immunotherapy treatments harnessing the power of engineered T-cell therapy.",
+        link: "https://www.kitepharma.com/"
+      },
+      {
+        title: "Eurofins PSS 2023",
+        position: "QC Technician",
+        description: "Eurofins PSS is a leading provider of laboratory services and solutions, offering comprehensive analytical testing and support to pharmaceutical, biotechnology, and medical device companies worldwide.",
+        link: "https://www.eurofins.com/biopharma-services/product-testing/services/pss-insourcing-solutions/"
+      },
+      {
+        title: "Eurofins Clinical Diagnostics 2021-2022",
+        position: "Lab Assistant / Interim Teamlead",
+        description: "Eurofins Clinical Diagnostics is a trusted provider of high-quality diagnostic testing services, offering a wide range of clinical laboratory testing solutions to healthcare providers, pharmaceutical companies, and research institutions globally.",
+        link: "https://eurofins-clinicaldiagnostics.nl/nl/"
+      }
+    ]}/>
+  </div>
+</div>
+</section>
+
+        {/* <TextGenerateEffect words={"Hola, I'm Jose a Lab Technician that likes to write code."} className= "text-orange flex-box md:mt-16 from-neutral-400">
+        </TextGenerateEffect> */}
+       {/* <h2 className="text-center">Meet Jose, who with enough caffeeine and time can find a solution for all your laboratory needs with half a decade of GxP experience. I try to combine my passion for science and tech to innovate the pharmaceutical industry all while adhering to SOP and following best practices.</h2>
+        <div>   
+        <div className="object-center">     
+        <Image 
+        src="/free-dna-2130814-1798594.webp"
+        width={30}
+        height={30}
+        alt="picture of the author"
+        className="shadow-sm"
+         />
+        </div>
+        <div className="mt-8 text-white-400 text-base md:text-large max-w-2x1 leading-loose tracking-wide">When I'm not working I'm Building websites, reading, bouldering, and assisting a startup soon to go public. you can read more in my<a data-state="closed" className="text-zinc-200 font-bold hover:text-cyan-500 transition duration-150 outline-none" href="Aboutme"> About me</a> page.</div>    
+        </div> */}
+        
