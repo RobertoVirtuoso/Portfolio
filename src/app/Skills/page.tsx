@@ -27,7 +27,7 @@ export default function Workexperience() {
         </a>
       </aside>
       <aside className="flex items-center gap-4p">
-        <a href='/CV ROBOT.pdf' download={"C.V. J.R.V +"}className="p-[3px] relative">
+        <a href='CV ROBOT.pdf' download={"C.V. J.R.V +"}className="p-[3px] relative">
         <div className="absolute inset-0 bg-gradient-to-r from-rose-200 to-pink-600 rounded-md" />
         <div className="px-8 py-2  bg-black rounded-[3px]  relative group transition duration-200 text-white hover:bg-transparent">
           Resume for Robots
