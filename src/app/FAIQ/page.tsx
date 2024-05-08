@@ -38,7 +38,7 @@ export default function FAIQ() {
            </div>
            <div className="max-w-5xl mx-auto px-8 mt-10 relative">
     <p className="  text-zinc-100 text-sm md:text-2xl mt-8 md:leading-loose tracking-wide">
-    Communication skills are crucial for success in this role. Can you give examples of how you've effectively communicated complex scientific concepts to non-experts?</p>
+    Communication skills are crucial for success in this role. Can you give examples of how you&apos;ve effectively communicated complex scientific concepts to non-experts?</p>
         </div>
         <div className="flex items-center justify-center">  
   <audio controls className="pt-5"></audio>
