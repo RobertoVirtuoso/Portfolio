@@ -30,10 +30,11 @@ export default function Main() {
       <TextGenerateEffect words={"Hola, Im Jose I like to put the Tech in QC Technician"} className= "pt-8  flex-box md:mt-16 from-neutral-400 text-yellow-400">
         </TextGenerateEffect>
      </div>
-     <div className="font-normal text-2xl md:text-4xl dark:text-neutral-200 py-4">
-     Meet Jose, who with enough caffeine and time can find a solution for all your laboratory needs with half a decade of GxP experience. I try to combine my passion for science and tech to innovate the pharmaceutical industry all while adhering to SOP and following best practices.
+     <div className="font-normal max-w-screen-xl text-2xl md:text-4xl dark:text-neutral-200 py-4">
+     Meet Jose, who with enough caffeine and time can find a solution for all your laboratory needs with half a decade of GxP experience.
+     <p>I try to combine my passion for science and tech to innovate the pharmaceutical industry all while adhering to SOP and following best practices.</p> 
      </div>
-     <div className="font-extralight text-2xl md:text-4xl dark:text-neutral-200 py-4">
+     <div className="font-extralight  max-w-screen-xl text-2xl md:text-4xl dark:text-neutral-200 py-4">
        In my freetime I&apos;m Building websites, reading, bouldering, and assisting a startup soon to go public. you can read more in my<a data-state="closed" className="text-zinc-100 font-bold hover:text-purple-500 transition duration-150 outline-none" href="Aboutme"> About me</a> page.
      </div> 
      <section>

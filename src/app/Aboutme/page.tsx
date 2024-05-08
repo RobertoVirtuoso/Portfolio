@@ -221,7 +221,7 @@ export default function Aboutme() {
                         ></path>
                     </svg>
                     <span className="text-zinc-400 text-sm md:text-base">
-                        Completed 2x Mudmasters(13k) and Viking run(16k).
+                        Completed 2x Mudmasters(12k) and Viking run(13k).
                     </span>
                 </div>
                 <div className="flex flex-row space-x-2 items-start my-2">

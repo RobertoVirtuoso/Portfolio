@@ -109,9 +109,8 @@ export const infotabs = [
      <Image src="VB.png"     alt="dummy image"     width="50"      height="50" />
      <Image src="R.png"     alt="dummy image"     width="50"     height="50" />
      <Image src="sql.png"     alt="dummy image"     width="70"     height="70" />
-     <Image src="1.svg"     alt="dummy image"     width="50"     height="50" /> 
+     {/* <Image src="1.svg"     alt="dummy image"     width="50"     height="50" />  */}
      <Image src="3.png"     alt="dummy image"     width="200"     height="200" />
-     
      </div>
     <p className="font-light p-9">
     Learned SQL for data-quering in LIMS and for efficient relatational database management. Some python for automation and data analysis using Pandas and NumPy for data manipulation and matplotlib for visualization. Brief R experience for quick statistical analysis. I like to to combine these technologies and execute end to end data workflows, ensuring comprehensive solutions.
