@@ -7,7 +7,6 @@ import Link from "next/link";
 import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 import { HoverEffect } from "@/components/ui/card-hover-effect";
 import { phrase } from "@/components/phrase";
-import { PinContainer } from "@/components/ui/3d-pin";
 import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import { thestreets } from "@/components/thestreets";
 
