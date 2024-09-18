@@ -1,7 +1,6 @@
 import Navbar from '@/components/Navbar'
 import { infotabs } from '@/components/infotabs'
 import { phrase2 } from '@/components/phrase'
-import { PinContainer } from '@/components/ui/3d-pin'
 import { Tabs } from '@/components/ui/tabs'
 import { TextGenerateEffect } from '@/components/ui/text-generate-effect'
 import { TypewriterEffectSmooth } from '@/components/ui/typewriter-effect'
