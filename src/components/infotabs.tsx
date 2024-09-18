@@ -109,7 +109,7 @@ export const infotabs = [
      <Image src="VB.png"     alt="dummy image"     width="50"      height="50" />
      <Image src="R.png"     alt="dummy image"     width="50"     height="50" />
      <Image src="sql.png"     alt="dummy image"     width="70"     height="70" />
-     {/* <Image src="1.svg"     alt="dummy image"     width="50"     height="50" />  */}
+     <Image src="1.svg"     alt="dummy image"     width="50"     height="50" /> 
      <Image src="3.png"     alt="dummy image"     width="200"     height="200" />
      </div>
     <p className="font-light p-9">

@@ -20,15 +20,15 @@ export default function Aboutme() {
   animate={{ x: [-2000, 0,0] }}
 >
         <div className="max-w-5xl mx-auto px-8 mt-10 relative">
-    <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">
+    <p className="text-white text-sm md:text-base mt-8 md:leading-loose tracking-wide">
         When I&apos;m not busy working or with a IDE open you&apos;ll often find either reading or indulging in some other obscure series. I like a good laugh and can find the humor in just about anything.
-        <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">But beyond work and cheesy punchlines, I have a passion for my personal interests which include, bouldering, hiking, diving, windsurfing, and reading I try my best to have a well-rounded approach to both work and life. 
+        <p className="text-white text-sm md:text-base mt-8 md:leading-loose tracking-wide">But beyond work and cheesy punchlines, I have a passion for my personal interests which include, bouldering, hiking, diving, windsurfing, and reading I try my best to have a well-rounded approach to both work and life. 
         I try my best to travel when I can and visit atleast one new place per year whether within europe or outside Europe. If you know a person I do obstacle runs a few times per year an can always use an extra casuality not worried about getting muddy.</p>
     </p>
-    <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">
+    <p className="text-white text-sm md:text-base mt-8 md:leading-loose tracking-wide">
         Here&apos;s a timeline of what I&apos;ve been upto 
     </p>
-    <p className="text-zinc-400 text-sm md:text-base mt-8 md:leading-loose tracking-wide">
+    <p className="text-white text-sm md:text-base mt-8 md:leading-loose tracking-wide">
         (If you&apos;re looking for more work related stuff swipe right)
     </p>
     
@@ -58,7 +58,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Joined a former colleague with his startup in early March still in the designing phase but would like to consult me going into Q3-Q4 2024.
                     </span>
                 </div>
@@ -80,7 +80,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Placed 18th place at a local open bouldering competition (Sadly did not win the Chalkbag). 
                     </span>
                 </div>
@@ -102,7 +102,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Helped my sister with University Applications while visiting family.
                     </span>
                 </div>
@@ -124,7 +124,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Looking for new working opportunities after returning from 3 months in Colombia.
                     </span>
                 </div>
@@ -154,7 +154,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Climbed my first 7a (now to do it more consistenly)
                     </span>
                 </div>
@@ -176,7 +176,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Visited Barcelona Spain
                     </span>
                 </div>
@@ -198,7 +198,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Became a qualified trainer at work to assist new coming lab techs.
                     </span>
                 </div>
@@ -220,7 +220,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Completed 2x Mudmasters(12k) and Viking run(13k).
                     </span>
                 </div>
@@ -242,7 +242,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Started working at KitePharma.
                     </span>
                 </div>
@@ -272,7 +272,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Finished my tenure at Eurofins Clinical Diagnostics. (It was a good run and i enjoyed my there.)
                     </span>
                 </div>
@@ -294,7 +294,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Ran my first half marathon. Now double it and give it to the next person.
                     </span>
                 </div>
@@ -316,7 +316,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Started coding more passionately to automate processes at work.
                     </span>
                 </div>
@@ -346,7 +346,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                     Started working at Oxford Global Resources as a Lab Assistant.
                     </span>
                 </div>
@@ -368,7 +368,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Sadly no travel this year.
                     </span>
                 </div>
@@ -390,7 +390,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                     Did oddjobs during covid some notable ones are, construction, chef, call-center, Hardware store.
                     </span>
                 </div>
@@ -420,7 +420,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Visited Frankfurt, Berlin, Munich, Paris and Brussels
                     </span>
                 </div>
@@ -442,7 +442,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                        Finished my Pre-Master and moved to the Hague.
                     </span>
                 </div>
@@ -472,7 +472,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Got introduced to coding started incorporating it more in my workflow.
                     </span>
                 </div>
@@ -494,7 +494,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Started a Pre-Master in Health Sciences UT Twente
                     </span>
                 </div>
@@ -516,7 +516,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Ended up falling into a comittee at school that helps expat students during their time in the Netherlands.
                     </span>
                 </div>
@@ -546,7 +546,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Finished my first Internship at the UMC got to work with some amazing people.
                     </span>
                 </div>
@@ -577,7 +577,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Travelled back to St. Maarten to help family and contribute to relief efforts after Irma.
                     </span>
                 </div>
@@ -599,7 +599,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Attended the HU for Life Sciences 
                     </span>
                 </div>         
@@ -629,7 +629,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Joined the UBV
                     </span>
                 </div>
@@ -651,7 +651,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Attended UU for biology with a focus on genetics.
                     </span>
                 </div>
@@ -673,7 +673,7 @@ export default function Aboutme() {
                             d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
                         ></path>
                     </svg>
-                    <span className="text-zinc-400 text-sm md:text-base">
+                    <span className="text-white text-sm md:text-base">
                         Traveled to the Netherlands on a scholarship to start my University journey
                     </span>
                 </div>        

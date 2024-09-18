@@ -19,7 +19,7 @@ export default function Workexperience() {
       <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 space-x-0 md:space-x-4 m-4">
       {/* <a href='' download={"C.V. J.R.V"}> */}
       <aside className="flex items-center gap-4p">
-        <a href='HC.V.JoseRobertoAPR2024.pdf' download={"HC.V. J.R.V "}className="p-[3px] relative">
+        <a href='HCVJRVMAY2024.pdf' download={"HC.V. J.R.V "}className="p-[3px] relative">
         <div className="absolute inset-0 bg-gradient-to-r from-teal-500 to-blue-500 rounded-md" />
         <div className="px-8 py-2  bg-black rounded-[3px]  relative group transition duration-200 text-white hover:bg-transparent">
           Resume for Humans
