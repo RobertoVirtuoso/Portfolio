@@ -10,7 +10,6 @@ import { phrase } from "@/components/phrase";
 import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import { thestreets } from "@/components/thestreets";
 
-
 export default function Home() {
   return (
     <main>
